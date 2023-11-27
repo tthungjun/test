@@ -1,4 +1,4 @@
-print("Hello Git")
+print("Hello Python")
 print("sung jun")
 
 for i in range(5):
